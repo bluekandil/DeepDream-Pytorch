@@ -3,9 +3,9 @@ import smtplib, ssl
 def notify():
     port = 465  # For SSL
     smtp_server = "smtp.gmail.com"
-    sender_email = "sharelov365@gmail.com"  # Enter your address
-    receiver_email = "sharelov365@gmail.com"  # Enter receiver address
-    password ="@Chigu@2019"
+    sender_email = "xxx@gmail.com"  # Enter your address
+    receiver_email = "xxx@gmail.com"  # Enter receiver address
+    password ="xxxxx"
     message = """\
     Subject: Hi there
 
